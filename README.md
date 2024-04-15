@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Prajapati</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamp528&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamp528" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamp528" alt="shubhamp528" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shubham14481056" target="blank"><img src="https://img.shields.io/twitter/follow/shubham14481056?logo=twitter&style=for-the-badge" alt="shubham14481056" /></a> </p>
 
 - 🔭 I’m currently working on [MovieSyncWatchingApp](https://github.com/ShubhamP528/moviesAppFrontend.git)
