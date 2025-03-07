@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubham528prajapati@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1xSVkgrfYIH2m9jW08WBQuOUkbn5kP9en/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1xSVkgrfYIH2m9jW08WBQuOUkbn5kP9en/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
