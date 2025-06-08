@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Prajapati</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/shubham14481056" target="blank"><img src="https://img.shields.io/twitter/follow/shubham14481056?logo=twitter&style=for-the-badge" alt="shubham14481056" /></a> </p>
 
